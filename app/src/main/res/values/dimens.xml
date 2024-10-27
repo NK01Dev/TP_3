@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Smallest">12dp</dimen>
+    <dimen name="Details">14dp</dimen>
+    <dimen name="Body_text">16dp</dimen>
+
+    <dimen name="Subtitle">18dp</dimen>
+    <dimen name="Subtitle_2">20dp</dimen>
+
+    <dimen name="Title">24dp</dimen>
+    <dimen name="Title_2">28dp</dimen>
+
+    <dimen name="Header">32dp</dimen>
+    <dimen name="Header_2">38dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+</resources>
